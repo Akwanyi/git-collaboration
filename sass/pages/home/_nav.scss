@@ -1,3 +1,10 @@
-body{
-    background-color: red;
+@use "../../utilities/mixins" as *;
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: darkgrey;
+}
+ul{
+    list-style: none;
 }

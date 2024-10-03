@@ -9,8 +9,13 @@ nav {
 ul {
   list-style: none;
 }
-body {
-  background-color: red;
+
+h2 {
+  align-self: auto;
+}
+
+.btn {
+  align-self: auto;
 }
 
 .read {

@@ -9,16 +9,16 @@ nav {
 ul {
   list-style: none;
 }
-body {
-  background-color: red;
-}
 
-.read {
-  color: blue;
+.shop {
   background-color: antiquewhite;
   height: 50px;
   width: 100px;
   border-radius: 10%;
+}
+
+.now {
+  display: flex;
   justify-content: center;
   align-items: center;
 }

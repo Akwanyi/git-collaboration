@@ -3,6 +3,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   background-color: darkgrey;
+  margin: 0 auto;
 }
 
 ul {
